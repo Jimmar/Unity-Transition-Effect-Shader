@@ -44,5 +44,5 @@ mat.SetFloat("_Cutoff",newValue);
 ```
 before `Graphics.Blit`
 
-#Author
+# Author
 Jafar Abdulrasoul [@JimmarxD](https://twitter.com/jimmarxd)
